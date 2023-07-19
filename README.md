@@ -7,5 +7,5 @@ Este paquete propociona una forma simple para obtener saludos
 Ejeuta el siguiente comando para instalar
 
 ```bash
-go get github.com/RafaLezcano-telco/greetingsUdemy.git
+go get github.com/RafaLezcano-telco/greetingsUdemy
 ```
